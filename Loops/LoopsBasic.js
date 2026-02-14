@@ -1,4 +1,5 @@
 ////Print multiplication table of a number.
+
 const prompt = require("prompt-sync")();
 // let n = prompt('Table of : ')
 // for(let i=1;i<=10;i++){
@@ -8,6 +9,7 @@ const prompt = require("prompt-sync")();
 
 
 ////Find sum of first N natural numbers.
+
 // let N = prompt('Then the Number: ');
 // let sumOfN = 0;
 // for(let i=1;i<=N;i++){
@@ -18,6 +20,7 @@ const prompt = require("prompt-sync")();
 
 
 ////Find factorial of a number.
+
 // let Nu = prompt('Then the Number: ');
 // let sumOfNu = 1;
 // for(let i=1;i<=Nu;i++){
@@ -72,6 +75,7 @@ const prompt = require("prompt-sync")();
 
 
 ////Reverse a number.
+
 // let numC = 1234;
 // let C = 0;
 // while(numC>0){   
@@ -84,6 +88,7 @@ const prompt = require("prompt-sync")();
 
 
 ////Check if a number is palindrome.
+
 // let num = 1221;
 // let original = num;
 // let d = 0;
