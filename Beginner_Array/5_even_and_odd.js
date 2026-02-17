@@ -1,0 +1,1 @@
+////Print all even and odd numbers in an array.

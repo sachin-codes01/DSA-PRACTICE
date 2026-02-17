@@ -1,0 +1,1 @@
+////Check if a given element exists in the array.
