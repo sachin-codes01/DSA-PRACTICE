@@ -1,4 +1,5 @@
 ////Check whether a number is a Palindrome
+////If you reverse it and it stays the same → it’s a palindrome.
 
 // let prompt = require('prompt-sync')();
 // let name = prompt("Enter name: ");
