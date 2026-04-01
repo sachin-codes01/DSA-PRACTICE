@@ -43,3 +43,58 @@ let arr = [12,200,400,54,56,67]
     let Max_2nd = arr[1]
 console.log(Max_2nd)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//// easy ways 
+// Find second largest element
+
+const array = [3, 2, 7, 8, 2, 7, 9, 3]
+
+////Sort and Pick
+const secondLargestSort = array.sort((a, b) => b - a)[1]
+console.log(secondLargestSort)
+
+
+////Find Max, Then Find Second Max
+let maximum = 0;
+let secondMaximum = 0;
+for (let i = 0; i < array.length; i++) {
+    if (maximum < array[i]) {
+        maximum = array[i]
+    }
+}
+for (let i = 0; i < array.length; i++) {
+    if (secondMaximum < array[i] && maximum > array[i]) {
+        secondMaximum = array[i]
+    }
+}
+console.log(secondMaximum)
+
+////Using Set to Remove Duplicates Then Sort
+const setArray = [...new Set(array)].sort((a, b) => b - a)[1]
+console.log(setArray)
+
+////Using forEach()
+let largest = -Infinity;
+let secondLargest = -Infinity;
+array.forEach(num => {
+    if (num > largest) {
+        secondLargest = largest;
+        largest = num;
+    } else if (num > secondLargest && num !== largest) {
+        secondLargest = num;
+    }
+});
+console.log(secondLargest); 

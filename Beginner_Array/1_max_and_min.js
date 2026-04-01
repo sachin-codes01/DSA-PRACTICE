@@ -36,3 +36,60 @@ let max_ = Math.max(...arr_)
 let min_ = Math.min(...arr_)
 console.log(max_)
 console.log(min_)
+
+
+
+
+
+
+
+
+
+
+// Find largest element in array (easy ways)
+
+const array = [3, 5, 2, 8, 3, 6, 3, 0, 3, 7]
+
+//// Using Math.max
+const  largestMath  = Math.max(...array)
+console.log(largestMath)
+
+const  smallestMath  = Math.min(...array)
+console.log(smallestMath)
+
+
+
+////Using reduce
+const largestReduce = array.reduce((answer, arrayValues) => { return arrayValues > answer ? arrayValues : answer }, array[0])
+console.log(largestReduce)
+
+const smallestReduce = array.reduce((answer, arrayValues) => { return arrayValues < answer ? arrayValues : answer }, array[0])
+console.log(smallestReduce)
+
+
+
+////Using a for loop
+let largestElement = array[0]
+for (let i = 1; i < array.length; i++) {
+    if (array[i] > largestElement) {
+        largestElement = array[i]
+    }
+}
+console.log(largestElement)
+
+let smallestElement = array[0]
+for (let i = 1; i < array.length; i++) {
+    if (array[i] < smallestElement) {
+        smallestElement = array[i]
+    }
+}
+console.log(smallestElement)
+
+
+
+////Using sort
+let largestSort = (array.sort((a,b)=>b-a))[0]
+console.log(largestSort)
+
+let smallestSort = (array.sort((a,b)=>a-b))[0]
+console.log(smallestSort)
