@@ -32,17 +32,6 @@
 
 
 
-
-
-
-
-
-// 🟢 BASIC ARRAY QUESTIONS (Must Start)
-//// Move all zeros to end
-//// Left rotate array by 1 place
-//// Left rotate array by k places
-//// Find missing number in array
-
 //// 🟡 EASY → IMPORTANT (Core Interview Level)
 //// Two Sum
 //// Find majority element (more than n/2 times)
@@ -78,30 +67,3 @@
 //// Count inversions in array
 //// Maximum circular subarray sum
 //// Split array largest sum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
