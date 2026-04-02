@@ -1,90 +1,71 @@
-Important DSA Topics for Fresher Frontend Developer
+# DSA Topics for Fresher Frontend Developer
 
-1.Arrays
-----
-Basics
-Traversal
-In-place modification
-Index-based operations
-Patterns
-Two Pointers
-Sliding Window
-Prefix Sum (basic)
-Kadane’s Algorithm (concept)
-----------
+---
 
-2.Strings
-----
-String traversal
-Immutability in JS
-Character frequency counting
-Substrings & subsequences (basic)
-Palindrome logic
-----------
+## 1. Arrays
+- Traversal
+- In-place modification
+- Index-based operations
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Kadane's Algorithm
 
-3.Hashing (VERY IMPORTANT)
-----
-HashMap using Object
-Map in JavaScript
-Frequency counter technique
-Set for uniqueness
-Lookup optimization (O(1))
-----------
+## 2. Strings
+- String traversal
+- Immutability in JS
+- Character frequency
+- Substrings & subsequences
+- Palindrome logic
 
-4.Recursion (basic)
-----
-Base case & recursive case
-Call stack understanding
-Backtracking (very basic idea)
-----------
+## 3. Hashing (Very Important)
+- HashMap using Object / Map in JS
+- Frequency counter technique
+- Set for uniqueness
+- O(1) lookup optimization
 
-5.Searching
-----
-Linear Search
-Binary Search
-----------
+## 4. Recursion
+- Base case & recursive case
+- Call stack understanding
+- Basic backtracking
 
-6.Basic Sorting (Bubble, Insertion)
-----
-Bubble Sort
-Selection Sort
-Insertion Sort
-Built-in .sort() with comparator
-----------
+## 5. Searching
+- Linear Search
+- Binary Search
 
-7.Stack
-----
-LIFO principle
-Stack implementation (array)
-Expression handling (basic idea)
-----------
+## 6. Basic Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Built-in `.sort()` with comparator
 
-8.Queue (basic)
-----
-FIFO principle
-Queue implementation
-Circular queue (basic idea)
-----------
+## 7. Stack
+- LIFO principle
+- Array-based implementation
+- Expression handling
 
-9.Linked List (Basic Understanding)
-----
-Node structure
-Traversal
-Insertion & deletion
-Singly linked list concept
-----------
+## 8. Queue
+- FIFO principle
+- Queue implementation
+- Circular queue concept
 
-Problem-Solving Patterns (MOST IMPORTANT)
-----
-Two Pointers
-Sliding Window
-Hashing
-Greedy (basic intuition)
-----------
+## 9. Linked List
+- Node structure
+- Traversal
+- Insertion & deletion
+- Singly linked list concept
 
-----
-Complexity Analysis
-Time Complexity (O(n), O(log n), etc.)
-Space Complexity
-Trade-offs (time vs space)
-----------
+---
+
+## Problem-Solving Patterns (Most Important)
+- Two Pointers
+- Sliding Window
+- Hashing
+- Greedy (basic intuition)
+
+---
+
+## Complexity Analysis
+- Time Complexity — O(1), O(log n), O(n), O(n²)
+- Space Complexity
+- Time vs Space trade-offs
