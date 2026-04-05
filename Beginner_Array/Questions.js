@@ -32,9 +32,10 @@
 
 
 
+
+// node Answers.js
+
 //// 🟡 EASY → IMPORTANT (Core Interview Level)
-//// Two Sum
-//// Find majority element (more than n/2 times)
 //// Kadane’s Maximum Subarray Sum ⭐
 //// Best time to buy and sell stock
 //// Rearrange array (positive & negative alternately)
