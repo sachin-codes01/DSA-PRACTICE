@@ -255,3 +255,72 @@
 // Count vowels
 // Remove duplicates
 // Find frequency of characters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// String DSA Questions for Frontend Freshers
+
+// 1. How do you traverse a string in JavaScript?
+// 2. Why are strings immutable in JavaScript? Give an example.
+// 3. Write a program to reverse a string.
+// 4. Write a program to check if a string is a palindrome.
+// 5. How do you count the frequency of each character in a string?
+// 6. Find the first non-repeating character in a string.
+// 7. Remove duplicate characters from a string.
+// 8. Check if two strings are anagrams.
+// 9. Reverse words in a given sentence.
+// 10. Find the longest word in a sentence.
+// 11. Capitalize the first letter of each word in a string.
+// 12. Remove extra spaces from a string.
+// 13. Check if one string is a substring of another.
+// 14. Generate all substrings of a string.
+// 15. What is the difference between substring and subsequence?
+// 16. Find the length of the longest substring without repeating characters.
+// 17. Find the longest palindromic substring.
+// 18. Group a list of strings into anagrams.
+// 19. Check if a string of parentheses is valid.
+// 20. Perform string compression (e.g., aaabb → a3b2).
+// 21. Convert a string to title case.
+// 22. Truncate a string and add ellipsis (...) if it exceeds a given length.
+// 23. Mask sensitive parts of an email or phone number.
+// 24. Format a string for UI display (e.g., currency-like text).
+// 25. Implement a simple search/filter function using string matching.
