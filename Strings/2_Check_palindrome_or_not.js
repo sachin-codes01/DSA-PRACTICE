@@ -34,3 +34,19 @@ if(notPal){
 }else{
     console.log(string,'is not a palindrome')
 }
+
+
+////using 1st and last compare
+let pal = "madam"
+let isPal = true;
+for (let i = 0; i < pal.length; i++) {
+    if (pal[i] !== pal[pal.length - 1 - i]) {
+        isPal = false;
+        break;
+    }
+}
+if (isPal) {
+    console.log("Is a palindrome");
+} else {
+    console.log("Not a palindrome");
+}

@@ -1,5 +1,4 @@
 //// Find frequency of each character
-
 let str = 'What can I help with'
 let count = {}
 for(let i=0;i<str.length;i++){
@@ -16,4 +15,3 @@ for(let key in count){
         console.log(key,'appears',count[key],'times')
     }
 }
-
