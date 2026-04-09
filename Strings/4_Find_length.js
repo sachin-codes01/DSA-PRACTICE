@@ -28,5 +28,4 @@ let count = 0;
 for (let _ of arr) {
     count++;
 }
-
 console.log(count);
