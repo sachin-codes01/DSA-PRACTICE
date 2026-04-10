@@ -25,4 +25,3 @@ for(let i=r;i>=1;i--){
     }
     console.log()
 }
-
