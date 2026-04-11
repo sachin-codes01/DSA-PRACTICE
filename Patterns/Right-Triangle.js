@@ -11,8 +11,6 @@ for (let i = 1; i <= e; i++) {
     console.log()
 }
 
-
-
 ////Reverse Right Triangle
 
 let r = 4;
