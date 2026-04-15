@@ -18,8 +18,6 @@ while(string[len]!== undefined){
 }
 console.log(len)
 
-
-
 ////Using split() + Counter
 let stri = 'sachin'
 let arr = stri.split('');
