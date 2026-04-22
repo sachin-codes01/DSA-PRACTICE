@@ -15,8 +15,6 @@ console.log("Total words:", count)
 
 
 
-
-
 ////Using split ,Handles Extra Spaces
 // let str = "What   can   I help"
 // let words = str.trim().split(/\s+/)
