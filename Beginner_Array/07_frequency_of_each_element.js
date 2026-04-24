@@ -19,7 +19,6 @@ for(let key in count){
 }
 
 
-
 ////Count Frequency Using map()
 let arr1 = [2, 3, 2, 5, 3, 2];
 let count1 = {};
