@@ -24,4 +24,3 @@ for(let i=q;i>=1;i--){
     }
     console.log()
 }
-
