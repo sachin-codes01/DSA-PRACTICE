@@ -8,7 +8,6 @@ for (let i = 1; i <= 4; i++) {
     console.log(count)
 }
 
-
 //// Reverse Left Number Pattern
 for (let i = 1; i <= 4; i++) {
     let count = ''
