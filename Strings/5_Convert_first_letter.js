@@ -9,7 +9,6 @@ let result = arr.join(' ')
 console.log(result)
 
 
-
 ////using map()
 
 let str1 = 'it can also iterate over inherited properties';
