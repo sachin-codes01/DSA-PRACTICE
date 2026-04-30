@@ -39,6 +39,7 @@ switch(character.toLowerCase()){
     default : console.log(`${character} is a Consonant`)
 }
 }
+
 //// or Using Array + includes()
 // let prompt = require('prompt-sync')();
 // let character = prompt("Enter character :")
