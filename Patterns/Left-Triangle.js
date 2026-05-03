@@ -7,7 +7,6 @@ for(let i=1;i<=4;i++){
     console.log(line)
 }
 
-
 ////Reverse Left Triangle
 for(let i=1;i<=4;i++){
     let line = ''
