@@ -9,7 +9,6 @@ for (let i = 0; i < array.length; i++) {
 }
 console.log(totalForLoop)
 
-
 //// Using for...of loop
 let totalForOfLoop = 0;
 for (let num of array) {
