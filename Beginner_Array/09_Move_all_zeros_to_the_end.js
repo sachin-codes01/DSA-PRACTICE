@@ -56,7 +56,6 @@ console.log(newArary)
 
 
 
-
 ////easy way
 //// Move all zeros to end
 
