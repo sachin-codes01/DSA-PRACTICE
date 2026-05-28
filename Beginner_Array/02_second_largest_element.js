@@ -56,7 +56,6 @@ console.log(Max_2nd)
 
 
 
-
 //// easy ways 
 // Find second largest element
 
